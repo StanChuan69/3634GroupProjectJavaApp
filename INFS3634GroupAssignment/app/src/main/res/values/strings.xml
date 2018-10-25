@@ -1,0 +1,50 @@
+<resources>
+    <!--START PAGE TEXT-->
+    <string name="startPageTitle">Welcome to the Java Revision App!</string>
+    <string name="startPageIntroText">This app will focus on revising the 4 fundamental concepts of object oriented programming: abstraction, polymorphism, inheritance and encapsulation (APIE!).Click start below to begin!</string>
+
+    <!--APP MAIN PAGE TEXT-->
+    <string name="mainPage1Title">FILLER TEXT</string>
+    <string name="mainPage2Text">The java programming language is object oriented, meaning is based around classes and objects. As we know, the 4 fundamental concepts in object oriented programming are known as APIE (abstraction, polymorphism, inheritance and encapsulation). However, as students learning java we have all been at least slightly confused between these 4 fundamental concepts. This app aims to revise and solidify our understanding of these 4 concepts to ensure we score the highest marks possible in our exams and build the best object oriented programs. </string>
+    <string name="mainPage3Text">Just to note, this app assumes basic knowledge of Java and OOP and is intended as a revision tool. Click on the navigation bar to start! </string>
+
+    <!--ABSTRACTION FRAGMENT XML-->
+    <string name="abstractionFragment1Title">ABSTRACTION</string>
+    <string name="abstractionFragment2Text">Abstraction in Java OOP refers to only showing functionality and hiding internal details and implementation of classes.</string>
+    <string name="abstractionFragment3Review">How Did you find the video? Try your hand at some revision questions below. Alternatively press the pink button at the bottom to return to the main menu.</string>
+    <string name="abstractionFragment4ReviewQuestions">FILLER CODE</string>
+
+    <!--POLYMORPHISM FRAGMENT XML-->
+    <string name="polymorphismFragment1Title">POLYMORPHISM</string>
+    <string name="polymorphismFragment2Text">Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.</string>
+    <string name="polymorphismFragment3Review">How Did you find the video? Try your hand at some revision questions below. Alternatively press the pink button at the bottom to return to the main menu.</string>
+    <string name="polymorphismFragment4ReviewQustions">FILLER TEXT</string>
+
+    <!--INHERITANCE FRAGMENT XML-->
+    <string name="inheritanceFragment1Title">INHERITANCE</string>
+    <string name="inheritanceFragment2Text">Inheritance is the mechanism by which a class acquires the properties and behaviours of its parent class.</string>
+    <string name="inheritanceFragment3Review">How Did you find the video? Try your hand at some revision questions below. Alternatively press the pink button at the bottom to return to the main menu.</string>
+    <string name="inheritanceFragment4ReviewQuestions">FILLER CODE</string>
+
+    <!--ENCAPSULATION FRAGMENT XML-->
+    <string name="encapsulationFragment1Title">ENCAPSULATION</string>
+    <string name="encapsulationFragment2Text">Encapsulation is a mechanism that wraps the variables and methods together as a single unit. A more common understanding of encapsulation is to hide the internal representation, or state,/implementation details of an object from users.</string>
+    <string name="encapsulationFragment3Review">How Did you find the video? Try your hand at some revision questions below. Alternatively press the pink button at the bottom to return to the main menu.</string>
+    <string name="encapsulationFragment4ReviewQuestions">FILLER TEXT</string>
+
+    ----------------------------------------------------------------------------------------------------
+    <!--ALL THE OTHER STRING RESOURCES-->
+    <string name="app_name">INFS3634GroupAssignment</string>
+    <string name="title_activity_app_main_page">AppMainPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_abstraction_page">AbstractionPage</string>
+    <string name="appmainpagetitle">THIS IS THE MAIN PAGE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_quiz_trialrun">QuizActivityTRIALRUN</string>
+</resources>
