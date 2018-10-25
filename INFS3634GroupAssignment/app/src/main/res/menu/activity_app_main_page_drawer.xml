@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Home" />
+        <item
+            android:id="@+id/abstraction"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Abstraction" />
+        <item
+            android:id="@+id/polymorphism"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Polymorphism" />
+        <item
+            android:id="@+id/inheritance"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Inheritance" />
+        <item
+            android:id="@+id/encapsulation"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Encapsulation" />
+
+    </group>
+    <item android:title="Quiz ">
+        <menu>
+            <item
+                android:id="@+id/quiz1"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Easy Quiz" />
+            <item
+                android:id="@+id/quiz2"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Difficult Quiz" />
+        </menu>
+    </item>
+
+</menu>
